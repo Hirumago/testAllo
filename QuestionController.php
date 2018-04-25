@@ -50,6 +50,6 @@ class QuestionController extends Controller
             ]);
         }
 
-        /*pouet pouet pouet*/
+        /*Pouet ultime*/
     }
 }
